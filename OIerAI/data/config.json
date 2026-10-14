@@ -1,0 +1,12 @@
+{
+  "api_base": "https://api.deepseek.com",
+  "api_key": "sk-27fc2a683f454705a2ed4034ede73df9",
+  "model": "deepseek-chat",
+  "temperature": 0.2,
+  "max_tokens": 8192,
+  "proxy": "",
+  "insecure_tls": false,
+  "timeout": 120,
+  "system_prompt": "",
+  "extra_prompt": ""
+}

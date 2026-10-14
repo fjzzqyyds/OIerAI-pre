@@ -1,0 +1,13 @@
+PASS root API URL
+PASS versioned API URL
+PASS custom version path
+PASS request JSON contains model
+PASS SSE deltas assemble report
+PASS null finish_reason accepted
+PASS export report metadata
+PASS request JSON contains model
+PASS non-stream JSON fallback
+PASS request JSON contains model
+PASS HTTP 401 surfaced
+PASS busy flag clears after failure
+ALL PASSED

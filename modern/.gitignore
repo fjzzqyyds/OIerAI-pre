@@ -1,0 +1,7 @@
+bin/
+obj/
+.dotnet/
+.nuget/
+.npm-cache/
+web/node_modules/
+release/data/
